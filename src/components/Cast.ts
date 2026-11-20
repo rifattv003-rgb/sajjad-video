@@ -1,0 +1,11 @@
+import { extra } from './Character';
+export const GIRL_A = extra('girl', '#E56B8F', '#555', '#D9A072');
+export const GIRL_B = extra('girl', '#7BB661', '#555', '#C68B5E');
+export const GIRL_C = extra('girl', '#F0A93E', '#555', '#EDBE94');
+export const GIRL_D = extra('girl', '#5B8DEF', '#555', '#D9A072');
+export const GIRLS = [GIRL_A, GIRL_B, GIRL_C, GIRL_D];
+export const VENDOR = extra('man', '#A67C52', '#3b3b3b', '#C68B5E', '#2b2b2b');
+export const UNCLE1 = extra('man', '#8C6BB1', '#444', '#C68B5E', '#2b2b2b');
+export const UNCLE2 = extra('man', '#3F8F8B', '#3a3a3a', '#D9A072', '#444');
+export const AUNT1 = extra('woman', '#D96C3F', '#555', '#D9A072');
+export const AUNT2 = extra('woman', '#4D7CC1', '#555', '#C68B5E');

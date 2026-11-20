@@ -1,0 +1,1 @@
+{ "extends": "../tsconfig.json", "compilerOptions": { "baseUrl": "..", "paths": { "remotion": ["tools/shim/remotion.tsx"], "@remotion/google-fonts/HindSiliguri": ["tools/shim/hind.ts"] } } }
